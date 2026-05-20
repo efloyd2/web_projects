@@ -1,1 +1,1 @@
-# web_projects
+# Class Projects
